@@ -10,9 +10,6 @@
 ## Customers:
 <img width="1439" alt="kc3" src="https://github.com/unesshaba/spring-angular-oauth2-oidc-keycloak-google-github-project/blob/main/assets/kc3.png">
 
-## Products:
-<img width="1439" alt="kc1" src="https://github.com/unesshaba/spring-angular-oauth2-oidc-keycloak-google-github-project/blob/main/assets/kc1.png">
-
 ## API&SERVICE:
 <img width="1439" alt="kc2" src="https://github.com/unesshaba/spring-angular-oauth2-oidc-keycloak-google-github-project/blob/main/assets/kc2.png">
 
